@@ -1,10 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "../../../../Arduino/PlatformIO/Tractive_dog_charger/Tractive_dog_charger"
-		},
-		{
-			"name": "Tractive_dog_charger",
 			"path": ".."
 		}
 	],
